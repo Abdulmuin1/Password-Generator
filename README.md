@@ -17,7 +17,7 @@ No installation is required to use this application. To get started, simply clon
 
 ```bash
 git clone https://github.com/Abdulmuin1/Password-Generator
-cd password-generator-web
+cd password generator
 open index.html
 ```
 
